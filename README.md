@@ -1,1 +1,2 @@
-# BanItemX
+# BanItem
+BanItem plugin for Nukkit
